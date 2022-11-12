@@ -6,5 +6,8 @@
 
 
 
-### Here I used Maven + Servlet + Mybatis + Html + CSS + JavaScript to complete this project
+### Here I used Maven + Servlet + Mybatis + Html + CSS + JavaScript + Swiper to complete this project
 
+### Index_View:
+
+![markdown pictrue](E:\LibraryManageSystem\index_img.png)
