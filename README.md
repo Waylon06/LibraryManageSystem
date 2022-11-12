@@ -10,4 +10,4 @@
 
 ### Index_View:
 
-![markdown pictrue](.\index_img.png)
+![markdown pictrue](./index_img.png)
