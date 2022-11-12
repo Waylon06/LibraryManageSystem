@@ -2,7 +2,7 @@
 
 
 
-## This is my final assignment  for my JavaWeb class
+## This is my final assignment  for my Web-Training class
 
 
 
