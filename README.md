@@ -18,8 +18,6 @@
 
 ###  Book Info_page
 
-<<<<<<< HEAD
 ![markdown pictrue](./page_info/bookInfo_page.png)
-=======
-![markdown pictrue](./page_info/bookInfo_page.png)
->>>>>>> 415b647d891f6c2cc6252fcf15a1b6ab3f9bf9af
+
+
