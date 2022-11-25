@@ -10,4 +10,12 @@
 
 ### Index_View:
 
-![markdown pictrue](e:/LibraryManageSystem\index_img.png)
+![markdown pictrue](./page_info/index_img.png)
+
+### Book List_Page
+
+![markdown pictrue](./page_info/bookList_page.png)
+
+###  Book Info_page
+
+![markdown pictrue](./page_info/bookInfo_page.png)
